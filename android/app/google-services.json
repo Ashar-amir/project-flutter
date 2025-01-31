@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190691296418",
+    "project_id": "my-game-pokemon",
+    "storage_bucket": "my-game-pokemon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190691296418:android:3d43e179d04378b9fa43fb",
+        "android_client_info": {
+          "package_name": "com.example.projectflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Vf9cNGxjJTrh3ySsfN4ztr5MUXPxCYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
